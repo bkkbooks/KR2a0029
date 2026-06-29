@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/270
+seq: 270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百三十六攷證僭偽列傳三王建𫝊以建為壁州刺史案通鑑作出建為利州刺史蜀檮杌作利州防禦使俱與是書異孟昶傳十一月十四日生昶於太原案花蕊夫人宫詞云法雲寺裏中元節又是官家降誕辰是昶以七月十五為生辰也與是書異舊五代史巻一百三十六考證
+  hash: sha256:1746176f3f18b6e1f593d1b30c05a08eae86669eafa17dfcf5a4e63b8a612023
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_270-1a, image: WYG0278/WYG0278-0491a.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百三十六攷證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_270.txt
+hash: sha256:72247b379e2b09cb132bdbd784ddb089fadfd19e5684d350b54282ee91b326ac

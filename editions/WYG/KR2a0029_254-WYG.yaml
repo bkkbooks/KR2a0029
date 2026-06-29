@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/WYG/v1/juan/254
+seq: 254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百二十八考證周列傳八楊凝式傳歴右常侍工户二部侍郎案别傳作工禮户三部侍郎年八十五案别傳作八十二裴羽傳贈工部尚書案歐陽史作戸部尚書段希堯傳河内人也案宋史段思恭傳作澤州晉城人舊五代史巻一百二十八考證
+  hash: sha256:cbdadd220bfd6240b301192ddae3eb37b6b151c79a690a903d900da2332ec3ad
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_254-1a, image: WYG0278/WYG0278-0418c.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:21:30.456540'
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_254.txt
+hash: sha256:7bcef200bd3ef49ca28667409ab76a13462ef4ef119066c9dd05d7162a0c69d8

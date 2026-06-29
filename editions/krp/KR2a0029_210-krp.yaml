@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/210
+seq: 210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史卷一百五考證漢宗室列傳二陳王承勲傳軍情欲立勲為嗣案立勲為嗣疑脱承字册府元龜引是書亦同盖承勲在隱帝時避御名故去承字也是書仍當時實錄之舊未及改歸畫一今姑仍其舊舊五代史巻一百五考證
+  hash: sha256:6fc50726deac61c28c3780a7d3c7812fe1b9863a039e52d8bee40bcab9cd3e4e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_210-1a, image: WYG0278/WYG0278-0244c.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百五考證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_210.txt
+hash: sha256:11ef42b835fd8660e677c2a5db95756d834beaaad04948a7ff163eef67f05f3f

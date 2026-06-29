@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR2a0029/bkk/v1/markers/155
+seq: 155
+markers:
+  front:
+  - {type: variant, offset: 0, length: 1, content: 任, WYG: 舊五代史巻七十七攷證晉書高祖紀三八}
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_155-1a, image: WYG0278/WYG0278-0022c.png}
+  - {type: variant, offset: 0, length: 1, content: 任, krp: 舊五代史巻七十七攷證晉書高祖紀三八}
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 0, content: '', id: ZHSJ__dup24041}
+  - {type: variant, offset: 2, length: 0, content: '', WYG: 戊寅以左僕射劉煦為契丹丹禮使左散騎常侍韋勲副之給事中盧重為契丹皇太后丹禮使案歐陽史八月戊寅馮道及左僕射劉煦為契丹丹禮使通監戊寅以馮道為太后丹禮使左僕射劉煦為契丹主冊禮使與是書此紀異左金吾仗勘契官王英司天臺鷄呌學生商暉等王英歐陽史作王殷商暉歐陽史作􅇻暉盖是書避宣祖諱九月己酉宫苑使蕉繼勲自軍前押范延光牙將馬諤齎歸命請罪表到闕壬子延光領部下士素服於本府闕俟命有詔釋罪案歐陽史作九月己酉赦范延光盖倂書於奉表請罪之}
+  - {type: page-break, offset: 2, content: '', id: KR2a0029_WYG_155-1b, image: WYG0278/WYG0278-0022d.png}
+  - {type: variant, offset: 2, length: 0, content: '', krp: 戊寅以左僕射劉煦為契丹丹禮使左散騎常侍韋勲副之給事中盧重為契丹皇太后丹禮使案歐陽史八月戊寅馮道及左僕射劉煦為契丹丹禮使通監戊寅以馮道為太后丹禮使左僕射劉煦為契丹主冊禮使與是書此紀異左金吾仗勘契官王英司天臺鷄呌學生商暉等王英歐陽史作王殷商暉歐陽史作殷暉盖是書避宣祖諱九月己酉宫苑使蕉繼勲自軍前押范延光牙將馬諤齎歸命請罪表到闕壬子延光領部下士素服於本府闕俟命有詔釋罪案歐陽史作九月己酉赦范延光盖倂書於奉表請罪之}
+  - {type: punctuation, offset: 3, content: ，, id: KR2a0029_ZHSJ_155-bkkpn1}
+  - {type: variant, offset: 3, length: 2, content: 任任, WYG: 也以右金吾大將軍馬從斌為契丹國命史考功郎中劉知新副之案馬從斌使契丹以報具加尊號也攷通鑑則始以命王權權辭以老疾乃改命從斌耳歐陽史止書從斌不載劉知新五代春秋作十}
+  - {type: page-break, offset: 3, content: '', id: KR2a0029_WYG_155-2a, image: WYG0278/WYG0278-0023a.png}
+  - {type: variant, offset: 3, length: 2, content: 任任, krp: 也以右金吾大將軍馬從斌為契丹國命史考功郎中劉知新副之案馬從斌使契丹以報具加尊號也攷通鑑則始以命王權權辭以老疾乃改命從斌耳歐陽史止書從斌不載劉知新五代春秋作十}
+  - {type: page-break, offset: 3, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 3, content: '', id: ZHSJ__dup24041}
+  - {type: page-break, offset: 4, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 4, content: '', id: ZHSJ__dup24041}
+  - {type: variant, offset: 6, length: 16, content: 日任月任月日任月日任月日任任月日, WYG: 馮道使契丹舊五代史巻七十七攷證}
+  - {type: page-break, offset: 6, content: '', id: KR2a0029_WYG_155-2b, image: WYG0278/WYG0278-0023b.png}
+  - {type: variant, offset: 6, length: 16, content: 日任月任月日任月日任月日任任月日, krp: 馮道使契丹舊五代史巻七十七攷證}
+  - {type: punctuation, offset: 7, content: ，, id: KR2a0029_ZHSJ_155-bkkpn1}
+  - {type: page-break, offset: 7, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 7, content: '', id: ZHSJ__dup24041}
+  - {type: page-break, offset: 9, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 9, content: '', id: ZHSJ__dup24041}
+  - {type: page-break, offset: 12, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 12, content: '', id: ZHSJ__dup24041}
+  - {type: page-break, offset: 15, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 15, content: '', id: ZHSJ__dup24041}
+  - {type: page-break, offset: 18, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 18, content: '', id: ZHSJ__dup24041}
+  - {type: page-break, offset: 19, content: '', id: KR2a0029_ZHSJ_155-1986a}
+  - {type: line-break, offset: 19, content: '', id: ZHSJ__dup24041}
+  back: []
+hash: sha256:0aff658ab606588722cb4836936bd4f331ef22aa16b8daf1b9dd53b06d72c8a4

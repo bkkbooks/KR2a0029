@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/WYG/v1/juan/242
+seq: 242
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百二十一攷證周后妃列傳一太祖聖穆皇后柴氏傳邢州龍岡人案龍川别志作魏成安人淑妃楊氏傳妃兄廷璋案東都事畧廷璋係淑妃之弟續通鑑長編亦云廷璋有姊為周太祖妃俱與是書異舊五代史巻一百二十一攷證
+  hash: sha256:d3738e13c12841debf7e55fc89dd3405be1e84d791a4dd93e358aa03dd0fdc6e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_242-1a, image: WYG0278/WYG0278-0370a.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:21:30.456540'
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_242.txt
+hash: sha256:2417990766439ab5486434c5ed56d8f441bdff88f49fc4a29b1b5da9a30d748c

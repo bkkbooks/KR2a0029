@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻四十九攷證唐后妃𫝊一得李匡儔妻張氏李匡儔原本避宋諱作李儔今據新唐書藩鎮傳増入太后餞於汾橋汾橋原本作渭橋今據通鑑注改正舊五代史巻四十九攷證
+  hash: sha256:e2e89ce566d77cd57ea8b4656a1579036b68767f0316d506a71bcf5f1be79e7e
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_100-1a, image: WYG0277/WYG0277-0433a.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷四十九攷證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_100.txt
+hash: sha256:feedc04e84b80181e70cf020e74fada25b46a2ea2f5f177ef69b95b976492480

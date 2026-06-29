@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/WYG/v1/juan/286
+seq: 286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百四十四攷證志六樂志上廟室酌獻舞武成之舞原本脱成字今據五代會要增入以雉羽分析連攢而為之連攢原本訛運攢今據五代會要改正朱褠革帶褠原本訛搆今據五代會要改正舊五代史巻一百四十四攷證
+  hash: sha256:f1aae8172b56b5f7ca43e5843e71aac5b257c81056e9bd5b8c6b3654566cee00
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_286-1a, image: WYG0278/WYG0278-0549a.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:21:30.456540'
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_286.txt
+hash: sha256:635ad70a0fd0daf86d08beea488b42bc31086421d8bee4ac37f3f2a1ce3a9b41

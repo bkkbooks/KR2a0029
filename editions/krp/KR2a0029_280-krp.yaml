@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/280
+seq: 280
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百四十一攷證志三五行志夔州赤山甲山崩赤甲原本訛求甲今據五代㑹要改正華州節度使楊彦詢彦詢原本彦珣今從列傳改正舊五代史巻一百四十一
+  hash: sha256:642df1b218ffad4fea870a76fe135ec9440aa996e86ebf9152505a68d4747db2
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_280-1a, image: WYG0278/WYG0278-0527a.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百四十一攷證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_280.txt
+hash: sha256:8940818e4c56ef4ee261be2c9464f8146d04513362113d9b4f916f70f00ae4b3

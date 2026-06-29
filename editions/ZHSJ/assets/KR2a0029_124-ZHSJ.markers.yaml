@@ -1,0 +1,14 @@
+canonical_identifier: bkk:krp/KR2a0029/ZHSJ/v1/markers/124
+seq: 124
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR2a0029_ZHSJ_124-d124p7s68}
+  - {type: punctuation, offset: 4, content: ．, id: KR2a0029_ZHSJ_124-bkkpn1}
+  - {type: 'tls:seg', offset: 4, content: '', id: KR2a0029_ZHSJ_124-d124p7s69}
+  - {type: punctuation, offset: 4, content: ), id: KR2a0029_ZHSJ_124-bkkpn2}
+  - {type: xml-element, offset: 4, content: '', id: KR2a0029_ZHSJ_124-bkkxmlele1, name: p, role: close}
+  - {type: xml-element, offset: 4, content: '', id: KR2a0029_ZHSJ_124-d124n1, name: note, role: open, attrs: {'xml:id': KR2a0029_ZHSJ_124-d124n1, type: text-crit}}
+  - {type: xml-element, offset: 4, content: '', id: KR2a0029_ZHSJ_124-d124n1_end, name: note, role: close, attrs: {'xml:id': KR2a0029_ZHSJ_124-d124n1, type: text-crit}}
+  back: []
+hash: sha256:6953cfd30cd88c86efddc992eeb5dd4e874bfa5ad1a7c39c0fc6fb5d0166080a

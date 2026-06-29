@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/288
+seq: 288
+front:
+  text: 舊五代史巻一百四十五考證志七樂志下太子丞鮑鄴鮑鄴原本訛鮑節今據五
+  hash: sha256:eb2a493a480be0981167ef900f318152b6bb8cb67bb932f3b61714725fdebd15
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_288-1a, image: WYG0278/WYG0278-0554a.png}
+body:
+  text: 代會要及文獻通考改正十二鏄鍾鎛鍾原本訛鍾鎛考隋書樂志宫懸各設十二鎛鍾于其辰位則知鍾鎛之為鎛鍾也今改正漢初制氏所調制氏原本訛知氏今據漢書改正舊五代史巻一百四十五攷證
+  hash: sha256:ba221ccc7def8956655927d55754014471bdddc0e83dec4b8fb5eb4f8bdb7e6d
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百四十五考證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_288.txt
+hash: sha256:c0e3d1a22bdc90561d557c6e3c06c179037e636565185813d7e3356a87299a2a

@@ -1,0 +1,145 @@
+canonical_identifier: bkk:krp/KR2a0029/bkk/v1/markers/136
+seq: 136
+markers:
+  front:
+  - {type: variant, offset: 0, length: 74, content: 何幸與不幸相去之遠也何幸與不何幸與何幸與不何幸與不幸相去何何幸與不幸相去之何幸與不幸何幸與不幸相何何何幸與何幸與不幸相去之遠也永樂大典卷一萬三千一百, WYG: 舊五代史巻}
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_136-1a, image: WYG0277/WYG0277-0557c.png}
+  - {type: variant, offset: 0, length: 74, content: 何幸與不幸相去之遠也何幸與不何幸與何幸與不何幸與不幸相去何何幸與不幸相去之何幸與不幸何幸與不幸相何何何幸與何幸與不幸相去之遠也永樂大典卷一萬三千一百, krp: 舊五代史巻}
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 10, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 14, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 17, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 21, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 28, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 29, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 42, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 48, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 49, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 50, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 63, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 63, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 63, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: variant, offset: 76, length: 1, content: 一, WYG: 七攷證唐列𫝊十九盧程𫝊盧程唐朝右族祖懿父藴案歐陽史作不知其世家}
+  - {type: variant, offset: 76, length: 1, content: 一, krp: 七攷證唐列𫝊十九盧程𫝊盧程唐朝右族祖懿父藴案歐陽史作不知其世家}
+  - {type: punctuation, offset: 77, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 77, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 77, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 77, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 77, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 77, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: variant, offset: 78, length: 1, content: 幸, WYG: 人趙鳳𫝊以為䕶鑾學士案五代會要作䕶鑾書制學士拜鳳中書舍人及入汴改授禮部員外郎案歐陽史作拜中書舍人翰林學士李愚𫝊歴許鄧觀察判官案歐陽史作罷為鄧州觀察判官屬趙鳳出鎮邢臺乃拜中書侍郎平章事案歐陽史任圜罷相乃拜愚中書侍郎同平章事吳縝簒誤云明宗紀天成二年六月任圜罷長興二年李愚為平章事自任圜罷至此巳五年矣}
+  - {type: page-break, offset: 78, content: '', id: KR2a0029_WYG_136-1b, image: WYG0277/WYG0277-0557d.png}
+  - {type: variant, offset: 78, length: 1, content: 幸, krp: 人趙鳳𫝊以為䕶鑾學士案五代會要作䕶鑾書制學士拜鳳中書舍人及入汴改授禮部員外郎案歐陽史作拜中書舍人翰林學士李愚𫝊歴許鄧觀察判官案歐陽史作罷為鄧州觀察判官屬趙鳳出鎮邢臺乃拜中書侍郎平章事案歐陽史任圜罷相乃拜愚中書侍郎同平章事吳縝簒誤云明宗紀天成二年六月任圜罷長興二年李愚為平章事自任圜罷至此巳五年矣}
+  - {type: variant, offset: 80, length: 1, content: 不, WYG: 愚}
+  - {type: variant, offset: 80, length: 1, content: 不, krp: 愚}
+  - {type: variant, offset: 81, length: 1, content: 幸, WYG: 入}
+  - {type: variant, offset: 81, length: 1, content: 幸, krp: 入}
+  - {type: variant, offset: 83, length: 1, content: 去, WYG: 年月太逺盖史}
+  - {type: variant, offset: 83, length: 1, content: 去, krp: 年月太逺盖史}
+  - {type: variant, offset: 85, length: 1, content: 遠, WYG: 所書本謂趙鳳而誤為任圜}
+  - {type: variant, offset: 85, length: 1, content: 遠, krp: 所書本謂趙鳳而誤為任圜}
+  - {type: punctuation, offset: 87, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 87, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 87, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: variant, offset: 87, length: 11, content: 永樂大典卷一萬三千一百, WYG: 任圜𫝊嗣昭為帥於軍圜代總其事案歐陽史作嗣昭戰殁圜代將其軍先是使人食劵皆出於户部食劵通鑑作館劵清泰中制贈太傅案歐陽史作愍帝即位贈圜太傅是書作廢帝清泰中未是孰是舊五代史巻}
+  - {type: page-break, offset: 87, content: '', id: KR2a0029_WYG_136-2a, image: WYG0277/WYG0277-0558a.png}
+  - {type: page-break, offset: 87, content: '', id: KR2a0029_WYG_136-2b, image: WYG0277/WYG0277-0558b.png}
+  - {type: variant, offset: 87, length: 11, content: 永樂大典卷一萬三千一百, krp: 任圜𫝊嗣昭為帥於軍圜代總其事案歐陽史作嗣昭戰殁圜代將其軍先是使人食劵皆出於户部食劵通鑑作館劵清泰中制贈太傅案歐陽史作愍帝即位贈圜太傅是書作廢帝清泰中未是孰是舊五代史巻}
+  - {type: variant, offset: 100, length: 217, content: 一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一, WYG: 七攷證}
+  - {type: variant, offset: 100, length: 217, content: 一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一何幸與不幸相去之遠也永樂大典卷一萬三千一百六十一, krp: 七攷證}
+  - {type: punctuation, offset: 101, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 101, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 101, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 101, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 101, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 101, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 111, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 111, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 111, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: punctuation, offset: 125, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 125, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 125, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 125, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 125, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 125, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 125, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 135, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 135, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 135, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: punctuation, offset: 149, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 149, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 149, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 149, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 149, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 149, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 149, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 159, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 159, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 159, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: punctuation, offset: 173, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 173, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 173, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 173, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 173, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 173, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 173, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 183, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 183, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 183, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: punctuation, offset: 197, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 197, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 197, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 197, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 197, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 197, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 207, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 207, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 207, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: punctuation, offset: 221, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 221, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 221, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 221, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 221, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 221, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 231, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 231, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 231, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: punctuation, offset: 245, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 245, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 245, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 245, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 245, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 245, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 245, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 255, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 255, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 255, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: punctuation, offset: 269, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 269, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 269, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 269, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 269, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 269, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 269, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 279, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 279, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 279, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  - {type: punctuation, offset: 293, content: ．, id: KR2a0029_ZHSJ_136-bkkpn3}
+  - {type: 'tls:seg', offset: 293, content: '', id: KR2a0029_ZHSJ_136-d136p11s25}
+  - {type: punctuation, offset: 293, content: ), id: KR2a0029_ZHSJ_136-bkkpn4}
+  - {type: xml-element, offset: 293, content: '', id: KR2a0029_ZHSJ_136-bkkxmlele1}
+  - {type: xml-element, offset: 293, content: '', id: KR2a0029_ZHSJ_136-d136n1}
+  - {type: xml-element, offset: 293, content: '', id: KR2a0029_ZHSJ_136-d136n1_end}
+  - {type: 'tls:seg', offset: 293, content: '', id: KR2a0029_ZHSJ_136-d136p11s23}
+  - {type: punctuation, offset: 303, content: ．, id: KR2a0029_ZHSJ_136-bkkpn1}
+  - {type: 'tls:seg', offset: 303, content: '', id: KR2a0029_ZHSJ_136-d136p11s24}
+  - {type: punctuation, offset: 303, content: (, id: KR2a0029_ZHSJ_136-bkkpn2}
+  back: []
+hash: sha256:c39b4b2f5733480b8bc0080d649f3d1899160aca2bc8ab1ff2a99145e0888312

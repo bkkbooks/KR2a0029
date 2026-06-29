@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/WYG/v1/juan/240
+seq: 240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百二十考證周恭帝紀恭帝諱宗訓世宗子也案五代會要云世宗後宮所生歐陽史作不知其母為誰氏今附識於此孝經雌圖三巻三巻歐陽史作一巻舊五代史巻一百二十考證
+  hash: sha256:3854c0237de11c153b3c350d898736038feaa50ea4a18211451521f4e28278c4
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_240-1a, image: WYG0278/WYG0278-0365c.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:21:30.456540'
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_240.txt
+hash: sha256:9b14c132c626474480cbd7846662ec168a30bc6bd23a3a9bfe14fa2511635a79

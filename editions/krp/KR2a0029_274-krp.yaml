@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/274
+seq: 274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百三十八考證外國列傳二吐蕃傳甘州為回鶻牙帳案原本脱帳字今据毆陽史増入回鶻傳來貢方物并獻善馬九匹案歐陽史作貢玉馬舊五代史巻一百三十八攷證
+  hash: sha256:209ee6d5e9adba266674d13f1fa584e607aa6f102c79006f6944d624f6b224e7
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_274-1a, image: WYG0278/WYG0278-0504c.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百三十八攷證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_274.txt
+hash: sha256:f04876800ca6937274f46a2f821652e2ca5ba7cec0052024bf56b426da4da2bc

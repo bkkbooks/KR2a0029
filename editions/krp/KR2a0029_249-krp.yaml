@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/249
+seq: 249
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百二十五考證周列傳五髙允權傳祖懐遷懐遷原本作懐逺今據歐陽史改正孫方諫傳又以弟議為徳州刺史弟議宋史作行義舊五代史巻一百二十五考證
+  hash: sha256:d58acac2db2672bfd9fc278c484eb07d950e3409fad13a54be4cfae4da6217ff
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_249-1a, image: WYG0278/WYG0278-0395c.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百二十五考證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_249.txt
+hash: sha256:b52a34d2655c527dcb6ff9037e4e7e4ef641b7e8fb72d31ef34384772a7b7a6d

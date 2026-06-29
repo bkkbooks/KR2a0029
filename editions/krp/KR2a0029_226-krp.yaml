@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/226
+seq: 226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百十三攷證周太祖紀四又殺牛族素與野雞族有憾殺牛族原本作殺牛于族攷通鑑五代㑹要宋史東都事略俱作殺牛族知原本于字衍今刪以前西京留守莒國公王守恩為左衛上将軍王守恩原本作守思今據通鑑改正舊五代史卷一百十三攷證
+  hash: sha256:d3ed0c99d035b6ac643cc592788a996f69cc4a92224b784dd7ea37602dcf8a87
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_226-1a, image: WYG0278/WYG0278-0313c.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百十三攷證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_226.txt
+hash: sha256:dac53ad4b0c5aca7b1336f75767ae880280adf7fa5e71ec16ecf6ebfe3f8cf4f

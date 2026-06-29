@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/252
+seq: 252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百二十七攷證周列傳七和凝傳欲預出宣敕十數道宻付開封尹鄭王令有緩急即旋填將校姓名領兵擊之案洛陽搢紳舊聞記作巳命髙行周為招討張從恩為都監仍令焦繼勲等數人備指使是晉祖未北征巳命將校矣與是書異舊五代史巻一百二十七考證
+  hash: sha256:c21298c559eccae8443d639d02c80f1f74675a5c5d210b159d214602b7285858
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_252-1a, image: WYG0278/WYG0278-0409a.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百二十七攷證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_252.txt
+hash: sha256:7f4a4afa7722defe7e4a46cc6c8b17f014d9c37c051b4162cf2b33700341ea54

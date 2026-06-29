@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/244
+seq: 244
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百二十二考證周宗室列傳二世宗子案歐陽史周家人傳世宗子七人第四子嗣位即恭皇帝其應入列傳者尚有六子是書不載呉王誠韓王諴當是脱簡舊五代史巻一百二十二考證
+  hash: sha256:3c7bbc7d76ab0673f53a9ec281216c40c7226cda6471e1c93f97a4d9328ee431
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_244-1a, image: WYG0278/WYG0278-0371c.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百二十二考證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_244.txt
+hash: sha256:b2870bb81cf6fae50ef64b3f0ccb1db02233da83551c0542ff0859f8ddc877f9

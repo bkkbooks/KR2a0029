@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0029/krp/v1/juan/258
+seq: 258
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊五代史巻一百三十考證周列傳十王峻傳又奏請以顔愆陳觀代范質李穀為相案顔愆陳觀歐陽史作顔衎陳同未幾死于貶所時廣順三年三月也案五代春秋作三月誅王峻與是書異舊五代史巻一百三十考證
+  hash: sha256:5e9a30eb6ad2a1f2d5f0ba8a44e9f11f7fee7aa15b8bbe7f1fe6b038a0631c18
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0029_WYG_258-1a, image: WYG0278/WYG0278-0432a.png}
+metadata:
+  title: 舊五代史
+  edition:
+    short: krp
+  date: '2015-08-24 22:21:30.456540'
+  juan_title: 卷一百三十考證
+  source:
+    repository: kanripo
+    path: KR2a0029/KR2a0029_258.txt
+hash: sha256:ae960961dee6e39ff14266257145f395ddfd2313b9e72f41c926236825eb9a10
