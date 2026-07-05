@@ -29,7 +29,6 @@ markers:
   - {type: punctuation, offset: 37, content: ．, id: KR2a0029_ZHSJ_011-bkkpn5}
   - {type: 'tls:seg', offset: 37, content: '', id: KR2a0029_ZHSJ_011-d11p1s4}
   - {type: punctuation, offset: 43, content: 、, id: KR2a0029_ZHSJ_011-bkkpn6}
-  - {type: substitution, offset: 50, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 53, content: ，, id: KR2a0029_ZHSJ_011-bkkpn7}
   - {type: 'tls:seg', offset: 53, content: '', id: KR2a0029_ZHSJ_011-d11p1s5}
   - {type: line-break, offset: 58, content: '', id: ZHSJ__dup1867}
@@ -48,7 +47,6 @@ markers:
   - {type: punctuation, offset: 86, content: ．, id: KR2a0029_ZHSJ_011-bkkpn13}
   - {type: 'tls:seg', offset: 86, content: '', id: KR2a0029_ZHSJ_011-d11p2s4}
   - {type: punctuation, offset: 86, content: ), id: KR2a0029_ZHSJ_011-bkkpn14}
-  - {type: substitution, offset: 90, original: 愿, replacement: 願, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1429}}
   - {type: punctuation, offset: 91, content: ，, id: KR2a0029_ZHSJ_011-bkkpn15}
   - {type: 'tls:seg', offset: 91, content: '', id: KR2a0029_ZHSJ_011-d11p2s5}
   - {type: line-break, offset: 96, content: '', id: ZHSJ__dup1869}
@@ -96,7 +94,6 @@ markers:
   - {type: 'tls:seg', offset: 206, content: '', id: KR2a0029_ZHSJ_011-d11p2s24}
   - {type: punctuation, offset: 210, content: ，, id: KR2a0029_ZHSJ_011-bkkpn37}
   - {type: 'tls:seg', offset: 210, content: '', id: KR2a0029_ZHSJ_011-d11p2s25}
-  - {type: substitution, offset: 212, original: 扑, replacement: 撲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0075}}
   - {type: punctuation, offset: 214, content: ．, id: KR2a0029_ZHSJ_011-bkkpn38}
   - {type: 'tls:seg', offset: 214, content: '', id: KR2a0029_ZHSJ_011-d11p2s26}
   - {type: punctuation, offset: 218, content: ，, id: KR2a0029_ZHSJ_011-bkkpn39}
@@ -392,7 +389,6 @@ markers:
   - {type: 'tls:seg', offset: 811, content: '', id: KR2a0029_ZHSJ_011-d11p3s55}
   - {type: punctuation, offset: 815, content: ，, id: KR2a0029_ZHSJ_011-bkkpn167}
   - {type: 'tls:seg', offset: 815, content: '', id: KR2a0029_ZHSJ_011-d11p3s56}
-  - {type: substitution, offset: 818, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3718}}
   - {type: line-break, offset: 820, content: '', id: ZHSJ__dup1886}
   - {type: punctuation, offset: 821, content: ，, id: KR2a0029_ZHSJ_011-bkkpn168}
   - {type: 'tls:seg', offset: 821, content: '', id: KR2a0029_ZHSJ_011-d11p3s57}
@@ -446,7 +442,6 @@ markers:
   - {type: 'tls:seg', offset: 950, content: '', id: KR2a0029_ZHSJ_011-d11p4s10}
   - {type: punctuation, offset: 955, content: ，, id: KR2a0029_ZHSJ_011-bkkpn192}
   - {type: 'tls:seg', offset: 955, content: '', id: KR2a0029_ZHSJ_011-d11p4s11}
-  - {type: substitution, offset: 957, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: line-break, offset: 959, content: '', id: ZHSJ__dup1890}
   - {type: punctuation, offset: 968, content: ．, id: KR2a0029_ZHSJ_011-bkkpn193}
   - {type: 'tls:seg', offset: 968, content: '', id: KR2a0029_ZHSJ_011-d11p4s12}
@@ -454,7 +449,6 @@ markers:
   - {type: 'tls:seg', offset: 972, content: '', id: KR2a0029_ZHSJ_011-d11p4s13}
   - {type: variant, offset: 976, length: 27, content: 昌雜錄云梁均王晉天福中始葬故妃張氏獨存考功員外商鵬為誌, WYG: 戰生擒守}
   - {type: variant, offset: 976, length: 27, content: 昌雜錄云梁均王晉天福中始葬故妃張氏獨存考功員外商鵬為誌, krp: 戰生擒守}
-  - {type: substitution, offset: 978, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 980, content: ：, id: KR2a0029_ZHSJ_011-bkkpn195}
   - {type: punctuation, offset: 983, content: ，, id: KR2a0029_ZHSJ_011-bkkpn196}
   - {type: 'tls:seg', offset: 983, content: '', id: KR2a0029_ZHSJ_011-d11p4s14}
@@ -462,7 +456,6 @@ markers:
   - {type: 'tls:seg', offset: 989, content: '', id: KR2a0029_ZHSJ_011-d11p4s15}
   - {type: punctuation, offset: 995, content: ．, id: KR2a0029_ZHSJ_011-bkkpn198}
   - {type: 'tls:seg', offset: 995, content: '', id: KR2a0029_ZHSJ_011-d11p4s16}
-  - {type: substitution, offset: 1002, original: 誌, replacement: 志, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0294}}
   - {type: line-break, offset: 1004, content: '', id: ZHSJ__dup1891}
   - {type: variant, offset: 1004, length: 274, content: 曰七月有期不見望陵之妾九疑無色空餘泣竹之妃今案末帝德妃張氏早薨後與末帝同葬而次妃郭氏天福中尚存歐陽史不明言同葬者為何妃文昌雜錄誤以尚存者為故妃張氏蓋傳聞之失實也今薛史梁后妃傳雖闕參考梁末帝紀及晉高祖紀定為德妃張氏同葬云又案五代史無外戚傳五代會要云梁太祖長女安陽公主降羅廷規開平二年八月追封長樂公主降趙巖開平元年五月十一日封普寧公主降昭祚王氏開平元年五月十一日封金華公主開平二年十月封真寧公主乾化三年十月五日封少帝長女壽春公主乾化三年四月五日封第二女壽昌公主貞明元年九月二十三日封今考通鑑考異引梁功臣列傳云羅廷規尚安陽公主又尚金華公主薛史羅紹威傳亦載, WYG: ''}
   - {type: variant, offset: 1004, length: 274, content: 曰七月有期不見望陵之妾九疑無色空餘泣竹之妃今案末帝德妃張氏早薨後與末帝同葬而次妃郭氏天福中尚存歐陽史不明言同葬者為何妃文昌雜錄誤以尚存者為故妃張氏蓋傳聞之失實也今薛史梁后妃傳雖闕參考梁末帝紀及晉高祖紀定為德妃張氏同葬云又案五代史無外戚傳五代會要云梁太祖長女安陽公主降羅廷規開平二年八月追封長樂公主降趙巖開平元年五月十一日封普寧公主降昭祚王氏開平元年五月十一日封金華公主開平二年十月封真寧公主乾化三年十月五日封少帝長女壽春公主乾化三年四月五日封第二女壽昌公主貞明元年九月二十三日封今考通鑑考異引梁功臣列傳云羅廷規尚安陽公主又尚金華公主薛史羅紹威傳亦載, krp: ''}
@@ -490,7 +483,6 @@ markers:
   - {type: 'tls:seg', offset: 1051, content: '', id: KR2a0029_ZHSJ_011-d11p4s25}
   - {type: punctuation, offset: 1063, content: ，, id: KR2a0029_ZHSJ_011-bkkpn211}
   - {type: 'tls:seg', offset: 1063, content: '', id: KR2a0029_ZHSJ_011-d11p4s26}
-  - {type: substitution, offset: 1066, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 1077, content: ，, id: KR2a0029_ZHSJ_011-bkkpn212}
   - {type: 'tls:seg', offset: 1077, content: '', id: KR2a0029_ZHSJ_011-d11p4s27}
   - {type: punctuation, offset: 1084, content: ．, id: KR2a0029_ZHSJ_011-bkkpn213}
@@ -593,4 +585,4 @@ markers:
   - {type: xml-element, offset: 1311, content: '', id: KR2a0029_ZHSJ_011-d11n1}
   - {type: xml-element, offset: 1311, content: '', id: KR2a0029_ZHSJ_011-d11n1_end}
   back: []
-hash: sha256:fd16b3c937a9596e849c19b3dc8359aa2fbe5554b451851b5009cb84ab6a2828
+hash: sha256:5e886b0299530f3621e9719ff331c7471fa3f4a4b45b801defcaab0d9a05aa54

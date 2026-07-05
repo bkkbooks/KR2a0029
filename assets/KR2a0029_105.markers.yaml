@@ -69,7 +69,6 @@ markers:
   - {type: variant, offset: 42, length: 3, content: 晉累官, WYG: 京月餘屢従畋遊寵待如故李存渥深訶詆之繼韜心不自安復賂伶閹求歸本鎮莊宗不聼繼韜潛令紀綱書諭繼逺欲軍城更變望天子遣已安撫事泄斬于天津橋南二子齠年質于汴莊宗收城得之撫其臂曰爾幼如是猶知能佐父造反長復何為}
   - {type: page-break, offset: 42, content: '', id: KR2a0029_WYG_105-9b, image: WYG0277/WYG0277-0447d.png}
   - {type: variant, offset: 42, length: 3, content: 晉累官, krp: 京月餘屢従畋遊寵待如故李存渥深訶詆之繼韜心不自安復賂伶閹求歸本鎮莊宗不聼繼韜潛令紀綱書諭繼逺欲軍城更變望天子遣已安撫事泄斬于天津橋南二子齠年質于汴莊宗收城得之撫其臂曰爾幼如是猶知能佐父造反長復何為}
-  - {type: substitution, offset: 43, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: variant, offset: 46, length: 0, content: '', WYG: 是亦誅乃遣使徃潞州斬繼逺函首赴闕命繼儔權知軍州事繼達充軍城巡檢未㡬詔繼儔赴闕時繼儔以繼韜所畜婢僕玩好之類悉為己有每日料選算校不時上路繼達怒謂人曰吾仲兄被罪父子誅死大兄不仁略無動懐而便烝淫妻妾詰責貨財慙恥見人生不如死繼達服縗麻引數百騎坐于㦸門呼曰為我反乎即令人斬繼儔首投於㦸門之内副使李繼珂聞其亂也募市人千餘攻其城門繼達登城樓知事不濟啟子城東門至其第盡殺其孥得百餘騎出潞城門将奔契丹行不十里麾下奔潰自剄于路隅天成初繼能為相州刺史母楊氏卒於太原繼能繼襲奔喪行服繼能笞掠母主藏婢責金銀數因笞至死家人告變言衆甲為亂繼能繼襲皆伏誅嗣昭諸子自相屠害㡬于溘盡惟繼忠一人僅保其首領焉裴約潞州之舊将也初事李嗣昭為親信及繼韜之叛約方戌潞州因召民泣而諭之曰余事故使已餘二紀每見分財享士志在平讎不幸薨沒令郎君父喪未𦵏即背君親余可倳刃自殺不能送死與人衆皆感泣繼而梁以董璋為澤州刺史率衆攻城約拒久之告急于莊宗莊宗知其忠懇謂諸將曰朕于繼韜何薄于裴約何厚裴約能分順逆不附賊黨先兄一何不幸生此鴟梟乃顧李紹斌曰爾識機便為我取裴約來朕不藉澤州彈丸之地即遣紹斌率五千騎以赴之紹斌自遼州進軍未至城己陷約被害時同光元年六月也帝聞之嗟痛不已李嗣本鴈門人本姓張父準銅冶鎮将嗣本少事武皇為帳中紀綱漸立戰功得補軍校乾寧中従征李匡儔為前鋒與燕人戰得居庸闗以功為義兒軍使因賜姓名従討王行瑜授檢校刑部尚書改威逺寧塞等軍使五年討羅𢎞信于魏州嗣本為前鋒師還改馬軍都将従李嗣昭討王暉于雲州論功加}
   - {type: page-break, offset: 46, content: '', id: KR2a0029_WYG_105-10a, image: WYG0277/WYG0277-0448a.png}
   - {type: page-break, offset: 46, content: '', id: KR2a0029_WYG_105-10b, image: WYG0277/WYG0277-0448b.png}
@@ -81,13 +80,11 @@ markers:
   - {type: 'tls:seg', offset: 50, content: '', id: KR2a0029_ZHSJ_105-d105p2s8}
   - {type: variant, offset: 50, length: 7, content: 國初授左衞上將, WYG: 汴将李思安之圍潞州也従周徳威}
   - {type: variant, offset: 50, length: 7, content: 國初授左衞上將, krp: 汴将李思安之圍潞州也従周徳威}
-  - {type: substitution, offset: 54, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: punctuation, offset: 58, content: ．, id: KR2a0029_ZHSJ_105-bkkpn8}
   - {type: 'tls:seg', offset: 58, content: '', id: KR2a0029_ZHSJ_105-d105p2s9}
   - {type: punctuation, offset: 58, content: (, id: KR2a0029_ZHSJ_105-bkkpn9}
   - {type: variant, offset: 58, length: 3, content: 左衞原, WYG: 于余吾嗣}
   - {type: variant, offset: 58, length: 3, content: 左衞原, krp: 于余吾嗣}
-  - {type: substitution, offset: 59, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: punctuation, offset: 60, content: ，, id: KR2a0029_ZHSJ_105-bkkpn10}
   - {type: 'tls:seg', offset: 60, content: '', id: KR2a0029_ZHSJ_105-d105p2s10}
   - {type: variant, offset: 62, length: 57, content: 作左衡今從歐陽史改正影庫本粘籤高祖將赴洛命承訓北京大內巡檢未幾詔赴闕授開封尹檢校太尉同平章事以天褔十二年十二月十一, WYG: 率騎軍}
@@ -149,7 +146,6 @@ markers:
   - {type: 'tls:seg', offset: 171, content: '', id: KR2a0029_ZHSJ_105-d105p3s2}
   - {type: punctuation, offset: 178, content: ．, id: KR2a0029_ZHSJ_105-bkkpn37}
   - {type: 'tls:seg', offset: 178, content: '', id: KR2a0029_ZHSJ_105-d105p3s3}
-  - {type: substitution, offset: 182, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: punctuation, offset: 186, content: ，, id: KR2a0029_ZHSJ_105-bkkpn38}
   - {type: 'tls:seg', offset: 186, content: '', id: KR2a0029_ZHSJ_105-d105p3s4}
   - {type: punctuation, offset: 190, content: ，, id: KR2a0029_ZHSJ_105-bkkpn39}
@@ -198,7 +194,6 @@ markers:
   - {type: 'tls:seg', offset: 274, content: '', id: KR2a0029_ZHSJ_105-d105p3s21}
   - {type: punctuation, offset: 276, content: ．, id: KR2a0029_ZHSJ_105-bkkpn60}
   - {type: 'tls:seg', offset: 276, content: '', id: KR2a0029_ZHSJ_105-d105p3s22}
-  - {type: substitution, offset: 282, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4560}}
   - {type: punctuation, offset: 285, content: ，, id: KR2a0029_ZHSJ_105-bkkpn61}
   - {type: 'tls:seg', offset: 285, content: '', id: KR2a0029_ZHSJ_105-d105p3s23}
   - {type: punctuation, offset: 291, content: ，, id: KR2a0029_ZHSJ_105-bkkpn62}
@@ -242,7 +237,6 @@ markers:
   - {type: 'tls:seg', offset: 381, content: '', id: KR2a0029_ZHSJ_105-d105p4s4}
   - {type: punctuation, offset: 387, content: ．, id: KR2a0029_ZHSJ_105-bkkpn81}
   - {type: 'tls:seg', offset: 387, content: '', id: KR2a0029_ZHSJ_105-d105p4s5}
-  - {type: substitution, offset: 390, original: 幷, replacement: 並, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4103}}
   - {type: punctuation, offset: 392, content: ，, id: KR2a0029_ZHSJ_105-bkkpn82}
   - {type: 'tls:seg', offset: 392, content: '', id: KR2a0029_ZHSJ_105-d105p4s6}
   - {type: punctuation, offset: 398, content: ，, id: KR2a0029_ZHSJ_105-bkkpn83}
@@ -276,7 +270,6 @@ markers:
   - {type: variant, offset: 431, length: 0, content: '', krp: 火車地道晝夜急攻城中兵少禦備罄竭城陷嗣本舉族入契丹有子八人四人陷于幕庭嗣本性剛烈有節義善戰多謀然治郡民頗傷苛急人以此少之也李嗣恩本姓駱歐陽史嗣恩本吐谷渾部人年十五能騎射}
   - {type: variant, offset: 432, length: 1, content: 衞, WYG: 武皇于振武及鎮太原補鐡林軍小校従征王行瑜奉表獻㨗加檢校散騎常侍漸轉突陣指揮使賜姓名天祐四年逐康懐英于河西解汾州之圍加檢校司空充左廂}
   - {type: variant, offset: 432, length: 1, content: 衞, krp: 武皇于振武及鎮太原補鐡林軍小校従征王行瑜奉表獻㨗加檢校散騎常侍漸轉突陣指揮使賜姓名天祐四年逐康懐英于河西解汾州之圍加檢校司空充左廂}
-  - {type: substitution, offset: 432, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: variant, offset: 434, length: 0, content: '', WYG: 軍都将戰王景仁有功加檢校司徒救河中府與梁人接戰應弦斃者甚衆而矟中其口及退莊宗親視其傷深加慰勉轉内衙馬步都将遼州刺史十二年従莊宗入魏擊劉鄩有功轉天雄}
   - {type: page-break, offset: 434, content: '', id: KR2a0029_WYG_105-13a, image: WYG0277/WYG0277-0449c.png}
   - {type: variant, offset: 434, length: 0, content: '', krp: 軍都将戰王景仁有功加檢校司徒救河中府與梁人接戰應弦斃者甚衆而矟中其口及退莊宗親視其傷深加慰勉轉内衙馬步都将遼州刺史十二年従莊宗入魏擊劉鄩有功轉天雄}
@@ -366,7 +359,6 @@ markers:
   - {type: punctuation, offset: 605, content: 、, id: KR2a0029_ZHSJ_105-bkkpn130}
   - {type: punctuation, offset: 608, content: ，, id: KR2a0029_ZHSJ_105-bkkpn131}
   - {type: 'tls:seg', offset: 608, content: '', id: KR2a0029_ZHSJ_105-d105p4s46}
-  - {type: substitution, offset: 609, original: 啟, replacement: 啓, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0402}}
   - {type: punctuation, offset: 612, content: ，, id: KR2a0029_ZHSJ_105-bkkpn132}
   - {type: 'tls:seg', offset: 612, content: '', id: KR2a0029_ZHSJ_105-d105p4s47}
   - {type: punctuation, offset: 617, content: ，, id: KR2a0029_ZHSJ_105-bkkpn133}
@@ -581,7 +573,6 @@ markers:
   - {type: 'tls:seg', offset: 1089, content: '', id: KR2a0029_ZHSJ_105-d105p5s59}
   - {type: punctuation, offset: 1096, content: ，, id: KR2a0029_ZHSJ_105-bkkpn234}
   - {type: 'tls:seg', offset: 1096, content: '', id: KR2a0029_ZHSJ_105-d105p5s60}
-  - {type: substitution, offset: 1101, original: 崗, replacement: 岡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3620}}
   - {type: punctuation, offset: 1102, content: ，, id: KR2a0029_ZHSJ_105-bkkpn235}
   - {type: 'tls:seg', offset: 1102, content: '', id: KR2a0029_ZHSJ_105-d105p5s61}
   - {type: punctuation, offset: 1113, content: ，, id: KR2a0029_ZHSJ_105-bkkpn236}
@@ -598,7 +589,6 @@ markers:
   - {type: punctuation, offset: 1138, content: ：, id: KR2a0029_ZHSJ_105-bkkpn241}
   - {type: 'tls:seg', offset: 1138, content: '', id: KR2a0029_ZHSJ_105-d105p5s67}
   - {type: punctuation, offset: 1138, content: 「, id: KR2a0029_ZHSJ_105-bkkpn242}
-  - {type: substitution, offset: 1140, original: 累, replacement: 纍, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4527}}
   - {type: punctuation, offset: 1144, content: ，, id: KR2a0029_ZHSJ_105-bkkpn243}
   - {type: 'tls:seg', offset: 1144, content: '', id: KR2a0029_ZHSJ_105-d105p5s68}
   - {type: punctuation, offset: 1150, content: ，, id: KR2a0029_ZHSJ_105-bkkpn244}
@@ -745,8 +735,6 @@ markers:
   - {type: line-break, offset: 1477, content: '', id: ZHSJ__dup16913}
   - {type: punctuation, offset: 1484, content: ，, id: KR2a0029_ZHSJ_105-bkkpn312}
   - {type: 'tls:seg', offset: 1484, content: '', id: KR2a0029_ZHSJ_105-d105p5s126}
-  - {type: substitution, offset: 1486, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
-  - {type: substitution, offset: 1500, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: punctuation, offset: 1502, content: ．, id: KR2a0029_ZHSJ_105-bkkpn313}
   - {type: 'tls:seg', offset: 1502, content: '', id: KR2a0029_ZHSJ_105-d105p5s127}
   - {type: punctuation, offset: 1507, content: ，, id: KR2a0029_ZHSJ_105-bkkpn314}
@@ -761,7 +749,6 @@ markers:
   - {type: 'tls:seg', offset: 1525, content: '', id: KR2a0029_ZHSJ_105-d105p5s131}
   - {type: punctuation, offset: 1529, content: ，, id: KR2a0029_ZHSJ_105-bkkpn319}
   - {type: 'tls:seg', offset: 1529, content: '', id: KR2a0029_ZHSJ_105-d105p5s132}
-  - {type: substitution, offset: 1533, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: punctuation, offset: 1534, content: ，, id: KR2a0029_ZHSJ_105-bkkpn320}
   - {type: 'tls:seg', offset: 1534, content: '', id: KR2a0029_ZHSJ_105-d105p5s133}
   - {type: punctuation, offset: 1538, content: ．, id: KR2a0029_ZHSJ_105-bkkpn321}
@@ -776,7 +763,6 @@ markers:
   - {type: punctuation, offset: 1561, content: ．, id: KR2a0029_ZHSJ_105-bkkpn326}
   - {type: 'tls:seg', offset: 1561, content: '', id: KR2a0029_ZHSJ_105-d105p5s138}
   - {type: line-break, offset: 1569, content: '', id: ZHSJ__dup16915}
-  - {type: substitution, offset: 1576, original: 衞, replacement: 衛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3699}}
   - {type: punctuation, offset: 1577, content: ，, id: KR2a0029_ZHSJ_105-bkkpn327}
   - {type: 'tls:seg', offset: 1577, content: '', id: KR2a0029_ZHSJ_105-d105p5s139}
   - {type: punctuation, offset: 1584, content: ：, id: KR2a0029_ZHSJ_105-bkkpn328}
@@ -920,4 +906,4 @@ markers:
   - {type: xml-element, offset: 1903, content: '', id: KR2a0029_ZHSJ_105-d105n1}
   - {type: xml-element, offset: 1903, content: '', id: KR2a0029_ZHSJ_105-d105n1_end}
   back: []
-hash: sha256:a3d0c19f12852f60fdf979aff14000ea92995fef174ffcb15223a196c1b511ba
+hash: sha256:78b83357e9fa855bd1bb1282ff64c315cd873a0e2ae1134b89846c85e8ac6213
