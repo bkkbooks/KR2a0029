@@ -405,6 +405,7 @@ markers:
   - {type: 'tls:seg', offset: 750, content: '', id: KR2a0029_ZHSJ_123-d123p11s2}
   - {type: variant, offset: 751, length: 11, content: 追冊者四故中闈內則罕得, WYG: 下咸以軍旅之功坐登藩閫之位垂名簡册亦可貴焉惟重霸以姦險}
   - {type: variant, offset: 751, length: 11, content: 追冊者四故中闈內則罕得, krp: 下咸以軍旅之功坐登藩閫之位垂名簡册亦可貴焉惟重霸以姦險}
+  - {type: substitution, offset: 752, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 755, content: ，, id: KR2a0029_ZHSJ_123-bkkpn74}
   - {type: 'tls:seg', offset: 755, content: '', id: KR2a0029_ZHSJ_123-d123p11s3}
   - {type: punctuation, offset: 760, content: ，, id: KR2a0029_ZHSJ_123-bkkpn75}
@@ -600,6 +601,7 @@ markers:
   - {type: punctuation, offset: 1234, content: ：, id: KR2a0029_ZHSJ_123-bkkpn72}
   - {type: punctuation, offset: 1241, content: ，, id: KR2a0029_ZHSJ_123-bkkpn73}
   - {type: 'tls:seg', offset: 1241, content: '', id: KR2a0029_ZHSJ_123-d123p11s2}
+  - {type: substitution, offset: 1243, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 1246, content: ，, id: KR2a0029_ZHSJ_123-bkkpn74}
   - {type: 'tls:seg', offset: 1246, content: '', id: KR2a0029_ZHSJ_123-d123p11s3}
   - {type: punctuation, offset: 1251, content: ，, id: KR2a0029_ZHSJ_123-bkkpn75}
@@ -780,6 +782,7 @@ markers:
   - {type: punctuation, offset: 1693, content: ：, id: KR2a0029_ZHSJ_123-bkkpn72}
   - {type: punctuation, offset: 1700, content: ，, id: KR2a0029_ZHSJ_123-bkkpn73}
   - {type: 'tls:seg', offset: 1700, content: '', id: KR2a0029_ZHSJ_123-d123p11s2}
+  - {type: substitution, offset: 1702, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 1705, content: ，, id: KR2a0029_ZHSJ_123-bkkpn74}
   - {type: 'tls:seg', offset: 1705, content: '', id: KR2a0029_ZHSJ_123-d123p11s3}
   - {type: punctuation, offset: 1710, content: ，, id: KR2a0029_ZHSJ_123-bkkpn75}
@@ -958,6 +961,7 @@ markers:
   - {type: punctuation, offset: 2150, content: ：, id: KR2a0029_ZHSJ_123-bkkpn72}
   - {type: punctuation, offset: 2157, content: ，, id: KR2a0029_ZHSJ_123-bkkpn73}
   - {type: 'tls:seg', offset: 2157, content: '', id: KR2a0029_ZHSJ_123-d123p11s2}
+  - {type: substitution, offset: 2159, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 2162, content: ，, id: KR2a0029_ZHSJ_123-bkkpn74}
   - {type: 'tls:seg', offset: 2162, content: '', id: KR2a0029_ZHSJ_123-d123p11s3}
   - {type: 'tls:seg', offset: 2166, content: '', id: KR2a0029_ZHSJ_123-d123p10s40}
@@ -1106,6 +1110,7 @@ markers:
   - {type: punctuation, offset: 2513, content: ：, id: KR2a0029_ZHSJ_123-bkkpn72}
   - {type: punctuation, offset: 2520, content: ，, id: KR2a0029_ZHSJ_123-bkkpn73}
   - {type: 'tls:seg', offset: 2520, content: '', id: KR2a0029_ZHSJ_123-d123p11s2}
+  - {type: substitution, offset: 2522, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
   - {type: punctuation, offset: 2525, content: ，, id: KR2a0029_ZHSJ_123-bkkpn74}
   - {type: 'tls:seg', offset: 2525, content: '', id: KR2a0029_ZHSJ_123-d123p11s3}
   - {type: punctuation, offset: 2530, content: ，, id: KR2a0029_ZHSJ_123-bkkpn75}
@@ -1160,4 +1165,4 @@ markers:
   - {type: variant, offset: 2676, length: 2, content: 考異, WYG: 巻六十一}
   - {type: variant, offset: 2676, length: 2, content: 考異, krp: 巻六十一}
   back: []
-hash: sha256:08b8327c07626f43d1809b87db391710704293b457e8abdf229cd087dfa099a1
+hash: sha256:fb3d303d5d0c06f5696f546fc5a35fe8b5c4ee6825c9218d41e7a98cff17eefa
