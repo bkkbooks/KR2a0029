@@ -10,5 +10,6 @@ markers:
   - {type: xml-element, offset: 4, content: '', id: KR2a0029_ZHSJ_124-bkkxmlele1, name: p, role: close}
   - {type: xml-element, offset: 4, content: '', id: KR2a0029_ZHSJ_124-d124n1, name: note, role: open, attrs: {'xml:id': KR2a0029_ZHSJ_124-d124n1, type: text-crit}}
   - {type: xml-element, offset: 4, content: '', id: KR2a0029_ZHSJ_124-d124n1_end, name: note, role: close, attrs: {'xml:id': KR2a0029_ZHSJ_124-d124n1, type: text-crit}}
+  - {type: 'voice:problem', offset: 4, length: 0, id: KR2a0029_ZHSJ_124-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 4 with no matching '('}
   back: []
-hash: sha256:6953cfd30cd88c86efddc992eeb5dd4e874bfa5ad1a7c39c0fc6fb5d0166080a
+hash: sha256:42e6142dc202adf1bc86c2d20f56f12c31b5cd60b399c17acc12dd5f1b10ca0f

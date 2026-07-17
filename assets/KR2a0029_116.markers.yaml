@@ -5472,6 +5472,7 @@ markers:
   - {type: punctuation, offset: 12476, content: ．, id: KR2a0029_ZHSJ_116-bkkpn2649}
   - {type: 'tls:seg', offset: 12476, content: '', id: KR2a0029_ZHSJ_116-d116p53s17}
   - {type: punctuation, offset: 12476, content: (, id: KR2a0029_ZHSJ_116-bkkpn2650}
+  - {type: 'voice:problem', offset: 12476, length: 597, id: KR2a0029_bkk_116-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 12476, got ''('' at offset 13073'}
   - {type: punctuation, offset: 12488, content: ．, id: KR2a0029_ZHSJ_116-bkkpn2651}
   - {type: 'tls:seg', offset: 12488, content: '', id: KR2a0029_ZHSJ_116-d116p53s18}
   - {type: variant, offset: 12491, length: 130, content: 補錢鏐封吳越國王後大興府署版築斤斧之聲晝夜不絕士卒怨嗟或有中夜潛用白土大書於門曰沒了期侵早起抵暮歸鏐一見欣然遽命書吏亦以白土書數字於其側曰沒了期春衣纔罷又冬衣時人以為神輔自是怨嗟頓息矣僧昭者通於術數居兩浙大為錢塘錢鏐所禮謂之國師一旦謁鏐有宮中小兒嬉於側墜下錢數, WYG: 巻五}
@@ -5761,4 +5762,4 @@ markers:
   - {type: xml-element, offset: 13085, content: '', id: KR2a0029_ZHSJ_116-d116n1}
   - {type: xml-element, offset: 13085, content: '', id: KR2a0029_ZHSJ_116-d116n1_end}
   back: []
-hash: sha256:2345b14141efc214dc968593b51e1676c428328c0310772ae8b7ddccc0b33ad5
+hash: sha256:5354d79cb112b9617c305715869607501a46593bb60e2f54a6238a2ad0746822

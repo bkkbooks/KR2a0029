@@ -20,6 +20,7 @@ markers:
   - {type: page-break, offset: 4, content: '', id: KR2a0029_WYG_146-3b, image: WYG0277/WYG0277-0591b.png}
   - {type: page-break, offset: 4, content: '', id: KR2a0029_WYG_146-4a, image: WYG0277/WYG0277-0591c.png}
   - {type: variant, offset: 4, length: 2, content: 永樂, krp: 假姪稱有叔在蜀欲往省之亦無私書詔停往令歸私第初延祚在獄多言璋隂事璋許重賂以塞其口及免延祚徴其賂璋拒而不與以至延祚詣臺訴璋翻覆復下御史臺訊鞫中丞吕夢竒以璋前䝉昭雪令延祚以責賂之故復加織羅故稍佑璋及欵狀上聞或云夢竒受璋賂所以獄不盡情執之移與軍廵璋具狀曽許延祚賂未與又云曽借馬與夢竒别無行賂之事朝廷懲其宿惡長流儒州賜死于路聶嶼鄴中人少為僧漸學吟詠鄭珏之知貢舉也與鄉人趙都俱赴鄉薦都納賂于珏人報翌日登第嶼聞不㨗詬來人以恐之珏懼俾俱成名漸為拾遺依郭崇韜為鎮州書記明宗時為起居舍人䨇眸若懸性氣乖僻人多忌之天成初除鄴都畱守制官與趙敬怡吕夢竒不足又改河東節度及至常鄙其土風薄其人士或逹于重誨㑹敬怡入為樞宻使與夢竒同搆殺之嶼早依郭氏門庭致身朱紫名登兩史浙江使迴生涯巨萬至河東日郭氏次子之婦霜居于家嶼喪偶未乆復忍而納幣人皆罪之明宗在藩邸時素聞其醜聲天成中與温韜等同詔賜死温韜華原人少為盗據華原事李茂貞名彦韜後降于梁更名昭圖為耀州節度唐諸陵在内者悉發之取所藏金寳而昭陵最固悉藏前世圖書鍾王紙墨筆迹如新以下有闕文移許州節度使累官至檢校太尉平章事韜素善趙巖每依附之莊宗入汴巖恃韜與已素厚遂奔許州韜延之于第斬首傳送闕下同光初韜來朝郭崇韜曰此刼陵賊罪不可赦韜納賂劉后賜姓名紹冲遽遣還鎮明宗卽位流于德州俄賜死長子延濬清泰中為泥水闗使次延招為父牙帳都校次延袤鄧州指揮使咸聚居許下晉天福初聞張從賓作亂于河陽咸往依之從賓慮其難制悉斬于帳下段凝開封人也本名明逺少潁悟多智數初為澠池簿脱荷衣以事梁祖梁祖漸器之開平三年十月自東頭供奉官授右咸衛}
+  - {type: 'voice:problem', offset: 4, length: 17, id: KR2a0029_bkk_146-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 4, got ''('' at offset 21'}
   - {type: variant, offset: 7, length: 3, content: 典卷四, WYG: 將軍充左軍巡使兼水北巡檢使凝妺為梁祖美}
   - {type: variant, offset: 7, length: 3, content: 典卷四, krp: 將軍充左軍巡使兼水北巡檢使凝妺為梁祖美}
   - {type: 'tls:seg', offset: 10, content: '', id: KR2a0029_ZHSJ_146-d146p30s47}
@@ -780,4 +781,4 @@ markers:
   - {type: 'tls:seg', offset: 1434, content: '', id: KR2a0029_ZHSJ_146-d146p31s16}
   - {type: punctuation, offset: 1434, content: (, id: KR2a0029_ZHSJ_146-bkkpn23}
   back: []
-hash: sha256:b6605c4480fd8c9b06db2fd706d45af6fffc328665d767c0c85cc4c1f74cb74f
+hash: sha256:8ad35d2653a66d1f5f72a7b826e97b05518d8689fca98b16f4d44422dce60212

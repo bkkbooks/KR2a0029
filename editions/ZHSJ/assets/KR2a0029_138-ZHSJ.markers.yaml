@@ -21,6 +21,7 @@ markers:
   - {type: punctuation, offset: 26, content: ．, id: KR2a0029_ZHSJ_138-bkkpn6}
   - {type: 'tls:seg', offset: 26, content: '', id: KR2a0029_ZHSJ_138-d138p19s3}
   - {type: punctuation, offset: 26, content: (, id: KR2a0029_ZHSJ_138-bkkpn7}
+  - {type: voice, offset: 26, length: 40, name: note, id: n1}
   - {type: punctuation, offset: 37, content: ．, id: KR2a0029_ZHSJ_138-bkkpn8}
   - {type: 'tls:seg', offset: 37, content: '', id: KR2a0029_ZHSJ_138-d138p19s4}
   - {type: punctuation, offset: 39, content: 、, id: KR2a0029_ZHSJ_138-bkkpn9}
@@ -46,6 +47,7 @@ markers:
   - {type: punctuation, offset: 77, content: ．, id: KR2a0029_ZHSJ_138-bkkpn19}
   - {type: 'tls:seg', offset: 77, content: '', id: KR2a0029_ZHSJ_138-d138p20s3}
   - {type: punctuation, offset: 77, content: (, id: KR2a0029_ZHSJ_138-bkkpn20}
+  - {type: voice, offset: 77, length: 12, name: note, id: n2}
   - {type: punctuation, offset: 89, content: ．, id: KR2a0029_ZHSJ_138-bkkpn21}
   - {type: 'tls:seg', offset: 89, content: '', id: KR2a0029_ZHSJ_138-d138p20s4}
   - {type: punctuation, offset: 89, content: ), id: KR2a0029_ZHSJ_138-bkkpn22}
@@ -65,6 +67,7 @@ markers:
   - {type: punctuation, offset: 115, content: ．, id: KR2a0029_ZHSJ_138-bkkpn29}
   - {type: 'tls:seg', offset: 115, content: '', id: KR2a0029_ZHSJ_138-d138p21s5}
   - {type: punctuation, offset: 115, content: (, id: KR2a0029_ZHSJ_138-bkkpn30}
+  - {type: voice, offset: 115, length: 11, name: note, id: n3}
   - {type: punctuation, offset: 126, content: ．, id: KR2a0029_ZHSJ_138-bkkpn31}
   - {type: 'tls:seg', offset: 126, content: '', id: KR2a0029_ZHSJ_138-d138p21s6}
   - {type: punctuation, offset: 126, content: ), id: KR2a0029_ZHSJ_138-bkkpn32}
@@ -72,4 +75,4 @@ markers:
   - {type: xml-element, offset: 126, content: '', id: KR2a0029_ZHSJ_138-d138n1, name: note, role: open, attrs: {'xml:id': KR2a0029_ZHSJ_138-d138n1, type: text-crit}}
   - {type: xml-element, offset: 126, content: '', id: KR2a0029_ZHSJ_138-d138n1_end, name: note, role: close, attrs: {'xml:id': KR2a0029_ZHSJ_138-d138n1, type: text-crit}}
   back: []
-hash: sha256:3456b58015a9a7fae42f8dddfad59f2723ecfe03a1e4761d1277f89d88f5d16a
+hash: sha256:40a670fd18c74964ac08e1f878a5cf6ffd903feb26a21ec1e8319c96e9355fb0

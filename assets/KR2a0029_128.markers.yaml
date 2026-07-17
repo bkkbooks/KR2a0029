@@ -100,6 +100,7 @@ markers:
   - {type: xml-element, offset: 145, content: '', id: KR2a0029_ZHSJ_128-bkkxmlele2}
   - {type: 'tls:seg', offset: 145, content: '', id: KR2a0029_ZHSJ_128-d128p52s1}
   - {type: line-break, offset: 145, content: '', id: ZHSJ__dup20807}
+  - {type: 'voice:problem', offset: 145, length: 0, id: KR2a0029_bkk_128-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 145 with no matching '('}
   - {type: variant, offset: 146, length: 28, content: 臣曰道之履行鬱有古人之風道之宇量深得大臣之體然而事四朝相, WYG: 舊五代史巻}
   - {type: variant, offset: 146, length: 28, content: 臣曰道之履行鬱有古人之風道之宇量深得大臣之體然而事四朝相, krp: 舊五代史巻}
   - {type: punctuation, offset: 148, content: ：, id: KR2a0029_ZHSJ_128-bkkpn30}
@@ -1227,4 +1228,4 @@ markers:
   - {type: 'tls:seg', offset: 2525, content: '', id: KR2a0029_ZHSJ_128-d128p52s14}
   - {type: punctuation, offset: 2525, content: (, id: KR2a0029_ZHSJ_128-bkkpn45}
   back: []
-hash: sha256:3d17477b0cf2e27e87cef325a650c46929c195d66b71b2b0544706f007235424
+hash: sha256:b059b5e6cc6c5f70cfa4ce43504c115d9c3ea2d7cbb92b41a4beeddfc2a1f800

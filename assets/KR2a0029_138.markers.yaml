@@ -605,5 +605,6 @@ markers:
   - {type: punctuation, offset: 1053, content: ．, id: KR2a0029_ZHSJ_138-bkkpn29}
   - {type: 'tls:seg', offset: 1053, content: '', id: KR2a0029_ZHSJ_138-d138p21s5}
   - {type: punctuation, offset: 1053, content: (, id: KR2a0029_ZHSJ_138-bkkpn30}
+  - {type: 'voice:problem', offset: 1053, length: 0, id: KR2a0029_bkk_138-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 1053}
   back: []
-hash: sha256:138c313244177616e0d78197d70f6032d600d5aa89ccbf55344f43bb6a7369ed
+hash: sha256:dddbd612e179e283e47468021dba58fd9c88055ca2193efa163c0352edc27b4e

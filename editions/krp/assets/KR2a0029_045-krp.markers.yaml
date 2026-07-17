@@ -104,6 +104,7 @@ markers:
       ', id: KR2a0029_krp_045-bkkkrnewl23}
   - {type: line-break, offset: 372, content: '', id: KR2a0029_WYG_045-2a06}
   - {type: punctuation, offset: 391, content: (, id: KR2a0029_krp_045-bkkpn1}
+  - {type: voice, offset: 391, length: 53, name: note, id: n1}
   - {type: punctuation, offset: 393, content: /, id: KR2a0029_krp_045-bkkpn2}
   - {type: punctuation, offset: 395, content: ), id: KR2a0029_krp_045-bkkpn3}
   - {type: 'kr:newline', offset: 395, content: '
@@ -209,6 +210,7 @@ markers:
       ', id: KR2a0029_krp_045-bkkkrnewl47}
   - {type: line-break, offset: 838, content: '', id: KR2a0029_WYG_045-3b03}
   - {type: punctuation, offset: 839, content: (, id: KR2a0029_krp_045-bkkpn10}
+  - {type: voice, offset: 839, length: 26, name: note, id: n2}
   - {type: punctuation, offset: 852, content: /, id: KR2a0029_krp_045-bkkpn11}
   - {type: punctuation, offset: 865, content: ), id: KR2a0029_krp_045-bkkpn12}
   - {type: 'kr:newline', offset: 872, content: '
@@ -296,6 +298,7 @@ markers:
       ', id: KR2a0029_krp_045-bkkkrnewl68}
   - {type: line-break, offset: 1250, content: '', id: KR2a0029_WYG_045-4b06}
   - {type: punctuation, offset: 1252, content: (, id: KR2a0029_krp_045-bkkpn13}
+  - {type: voice, offset: 1252, length: 31, name: note, id: n3}
   - {type: punctuation, offset: 1268, content: /, id: KR2a0029_krp_045-bkkpn14}
   - {type: punctuation, offset: 1283, content: ), id: KR2a0029_krp_045-bkkpn15}
   - {type: 'kr:newline', offset: 1286, content: '
@@ -755,6 +758,7 @@ markers:
       ', id: KR2a0029_krp_045-bkkkrnewl182}
   - {type: line-break, offset: 3366, content: '', id: KR2a0029_WYG_045-11a03}
   - {type: punctuation, offset: 3381, content: (, id: KR2a0029_krp_045-bkkpn16}
+  - {type: voice, offset: 3381, length: 81, name: note, id: n4}
   - {type: punctuation, offset: 3387, content: /, id: KR2a0029_krp_045-bkkpn17}
   - {type: punctuation, offset: 3393, content: ), id: KR2a0029_krp_045-bkkpn18}
   - {type: 'kr:newline', offset: 3393, content: '
@@ -979,4 +983,4 @@ markers:
 
       ', id: KR2a0029_krp_045-bkkkrnewl233}
   back: []
-hash: sha256:c6163f9c61ecae476e513b5f9032c29b98848b7e16840785dfe945d13f374573
+hash: sha256:1ecddb55beaae2d63cde33db404fabad79ef07c7debf5a59e4b3a42b582df408

@@ -69,6 +69,7 @@ markers:
   - {type: page-break, offset: 48, content: '', id: KR2a0029_WYG_137-10a, image: WYG0277/WYG0277-0563a.png}
   - {type: variant, offset: 48, length: 0, content: '', krp: 中悉令秉筆賦詩冊府元龜時從榮溺于篇章凡門客及通謁遊士必生于客次自出題目令賦一章然後接見贊為師傅亦}
   - {type: 'tls:seg', offset: 48, content: '', id: KR2a0029_ZHSJ_137-d137p16s117}
+  - {type: 'voice:problem', offset: 48, length: 0, id: KR2a0029_bkk_137-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 48 with no matching '('}
   - {type: variant, offset: 49, length: 7, content: 契丹兵數千騎戰, WYG: 諸客混然容狀不悦秦王知其意自是戒典客贊至勿通令每月一度至衙言行龜鑑載劉賛諫秦王曰殿下宜以孝敬為職浮華非所尚也秦王不悦戒閽者後弗引進賛既官係王府不敢朝參不通慶弔但閉闗喑鳴而已及秦王得罪或言贊止}
   - {type: variant, offset: 49, length: 7, content: 契丹兵數千騎戰, krp: 諸客混然容狀不悦秦王知其意自是戒典客贊至勿通令每月一度至衙言行龜鑑載劉賛諫秦王曰殿下宜以孝敬為職浮華非所尚也秦王不悦戒閽者後弗引進賛既官係王府不敢朝參不通慶弔但閉闗喑鳴而已及秦王得罪或言贊止}
   - {type: variant, offset: 57, length: 4, content: 安平縣敗, WYG: 朝降而已服麻衣備驢乘在門矣聞其言曰豈有國君}
@@ -202,4 +203,4 @@ markers:
   - {type: variant, offset: 187, length: 1, content: 之, WYG: 八}
   - {type: variant, offset: 187, length: 1, content: 之, krp: 八}
   back: []
-hash: sha256:487468f6fda11b696092210636cbe716cb50b292c82553761cb359e7110071bb
+hash: sha256:281bf8285345c67e3d10e51bd101ab38ed67de1ff082712a154fd281257e9693

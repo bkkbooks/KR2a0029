@@ -130,6 +130,7 @@ markers:
   - {type: punctuation, offset: 150, content: ．, id: KR2a0029_ZHSJ_123-bkkpn13}
   - {type: 'tls:seg', offset: 150, content: '', id: KR2a0029_ZHSJ_123-d123p10s53}
   - {type: punctuation, offset: 150, content: (, id: KR2a0029_ZHSJ_123-bkkpn14}
+  - {type: 'voice:problem', offset: 150, length: 322, id: KR2a0029_bkk_123-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 150, got ''('' at offset 472'}
   - {type: punctuation, offset: 162, content: ．, id: KR2a0029_ZHSJ_123-bkkpn15}
   - {type: 'tls:seg', offset: 162, content: '', id: KR2a0029_ZHSJ_123-d123p10s54}
   - {type: punctuation, offset: 163, content: ：, id: KR2a0029_ZHSJ_123-bkkpn16}
@@ -1165,4 +1166,4 @@ markers:
   - {type: variant, offset: 2676, length: 2, content: 考異, WYG: 巻六十一}
   - {type: variant, offset: 2676, length: 2, content: 考異, krp: 巻六十一}
   back: []
-hash: sha256:fb3d303d5d0c06f5696f546fc5a35fe8b5c4ee6825c9218d41e7a98cff17eefa
+hash: sha256:7603e3c05e4bff3273ddbf8251b8fa2e4883b1d00553844d517a91566594f7a2

@@ -126,6 +126,7 @@ markers:
   - {type: xml-element, offset: 148, content: '', id: KR2a0029_ZHSJ_121-bkkxmlele2}
   - {type: 'tls:seg', offset: 148, content: '', id: KR2a0029_ZHSJ_121-d121p8s1}
   - {type: line-break, offset: 148, content: '', id: ZHSJ__dup19891}
+  - {type: 'voice:problem', offset: 148, length: 0, id: KR2a0029_bkk_121-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 148 with no matching '('}
   - {type: punctuation, offset: 151, content: ：, id: KR2a0029_ZHSJ_121-bkkpn35}
   - {type: variant, offset: 151, length: 24, content: 世宗頃在仄微尤務韜晦及天命有屬嗣守鴻業不日破高平, WYG: 昔武皇}
   - {type: variant, offset: 151, length: 24, content: 世宗頃在仄微尤務韜晦及天命有屬嗣守鴻業不日破高平, krp: 昔武皇}
@@ -1539,4 +1540,4 @@ markers:
   - {type: 'tls:seg', offset: 3153, content: '', id: KR2a0029_ZHSJ_121-d121p8s39}
   - {type: punctuation, offset: 3153, content: (, id: KR2a0029_ZHSJ_121-bkkpn76}
   back: []
-hash: sha256:b814af88324f67dc1c6dfd20b6a64cc31810a14421c638da02c1c533710f50e0
+hash: sha256:8d3452c5c22b7f295e5d5a6a889a04f297b65b7a820faed65a133e2db3026d54

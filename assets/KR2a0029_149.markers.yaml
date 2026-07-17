@@ -432,5 +432,6 @@ markers:
   - {type: line-break, offset: 804, content: '', id: ZHSJ__dup24316}
   - {type: substitution, offset: 806, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 807, content: (, id: KR2a0029_ZHSJ_149-bkkpn8}
+  - {type: 'voice:problem', offset: 807, length: 0, id: KR2a0029_bkk_149-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 807}
   back: []
-hash: sha256:87ecfa4b1b0afc79e2620e48198c453850a2346182b0df4bcb6677ad46ffba43
+hash: sha256:81d8a41afdba6135d470df42320c34a4bd3cf607c928453873babd47cb89d6e1

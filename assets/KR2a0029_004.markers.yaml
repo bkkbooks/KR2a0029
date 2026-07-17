@@ -665,6 +665,7 @@ markers:
   - {type: variant, offset: 1203, length: 25, content: 五代史考異己丑令下諸州去年有蝗蟲下子處蓋前冬無雪至, krp: 唐書亦作何懐寳}
   - {type: punctuation, offset: 1208, content: ）, id: KR2a0029_ZHSJ_004-bkkpn270}
   - {type: punctuation, offset: 1208, content: ), id: KR2a0029_ZHSJ_004-bkkpn271}
+  - {type: 'voice:problem', offset: 1208, length: 0, id: KR2a0029_bkk_004-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 1208 with no matching '('}
   - {type: punctuation, offset: 1210, content: ，, id: KR2a0029_ZHSJ_004-bkkpn272}
   - {type: 'tls:seg', offset: 1210, content: '', id: KR2a0029_ZHSJ_004-d4p6s22}
   - {type: punctuation, offset: 1214, content: ，, id: KR2a0029_ZHSJ_004-bkkpn273}
@@ -3070,4 +3071,4 @@ markers:
   - {type: xml-element, offset: 6777, content: '', id: KR2a0029_ZHSJ_004-d4n1}
   - {type: xml-element, offset: 6777, content: '', id: KR2a0029_ZHSJ_004-d4n1_end}
   back: []
-hash: sha256:9ef6626a33f55b7e921f1c2337cf2eef359b621536e240e28b1c9090c6648f08
+hash: sha256:6394b10d978deca47765e9d4f6a519af3391dbbcbad7c5c769b7ac75fa5ca6be

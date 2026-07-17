@@ -114,6 +114,7 @@ markers:
   - {type: punctuation, offset: 203, content: ．, id: KR2a0029_ZHSJ_104-bkkpn38}
   - {type: 'tls:seg', offset: 203, content: '', id: KR2a0029_ZHSJ_104-d104p2s35}
   - {type: punctuation, offset: 203, content: (, id: KR2a0029_ZHSJ_104-bkkpn39}
+  - {type: voice, offset: 203, length: 183, name: note, id: n1}
   - {type: punctuation, offset: 216, content: ．, id: KR2a0029_ZHSJ_104-bkkpn40}
   - {type: 'tls:seg', offset: 216, content: '', id: KR2a0029_ZHSJ_104-d104p2s36}
   - {type: punctuation, offset: 217, content: ：, id: KR2a0029_ZHSJ_104-bkkpn41}
@@ -211,6 +212,7 @@ markers:
   - {type: punctuation, offset: 417, content: ，, id: KR2a0029_ZHSJ_104-bkkpn89}
   - {type: 'tls:seg', offset: 417, content: '', id: KR2a0029_ZHSJ_104-d104p3s6}
   - {type: punctuation, offset: 417, content: (, id: KR2a0029_ZHSJ_104-bkkpn90}
+  - {type: voice, offset: 417, length: 67, name: note, id: n2}
   - {type: line-break, offset: 419, content: '', id: ZHSJ__dup16856}
   - {type: substitution, offset: 426, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: punctuation, offset: 428, content: ：, id: KR2a0029_ZHSJ_104-bkkpn91}
@@ -309,6 +311,7 @@ markers:
   - {type: punctuation, offset: 647, content: ．, id: KR2a0029_ZHSJ_104-bkkpn135}
   - {type: 'tls:seg', offset: 647, content: '', id: KR2a0029_ZHSJ_104-d104p3s45}
   - {type: punctuation, offset: 647, content: (, id: KR2a0029_ZHSJ_104-bkkpn136}
+  - {type: voice, offset: 647, length: 263, name: note, id: n3}
   - {type: punctuation, offset: 661, content: ．, id: KR2a0029_ZHSJ_104-bkkpn137}
   - {type: 'tls:seg', offset: 661, content: '', id: KR2a0029_ZHSJ_104-d104p3s46}
   - {type: punctuation, offset: 662, content: ：, id: KR2a0029_ZHSJ_104-bkkpn138}
@@ -411,4 +414,4 @@ markers:
   - {type: xml-element, offset: 910, content: '', id: KR2a0029_ZHSJ_104-d104n1}
   - {type: xml-element, offset: 910, content: '', id: KR2a0029_ZHSJ_104-d104n1_end}
   back: []
-hash: sha256:3a29be4c4cf37fb5d052306ea6bf7498ad444d4e635b75ee71c6e9fcaa447224
+hash: sha256:726c40b4a0691b2fc75f1640ab76b883791e75311f6ad161c663a8eac0114e34

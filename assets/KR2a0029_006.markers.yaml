@@ -75,6 +75,7 @@ markers:
   - {type: 'tls:seg', offset: 116, content: '', id: KR2a0029_ZHSJ_006-d6p2s17}
   - {type: punctuation, offset: 116, content: (, id: KR2a0029_ZHSJ_006-bkkpn23}
   - {type: substitution, offset: 116, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
+  - {type: 'voice:problem', offset: 116, length: 21, id: KR2a0029_bkk_006-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 116, got ''('' at offset 137'}
   - {type: line-break, offset: 123, content: '', id: ZHSJ__dup1070}
   - {type: punctuation, offset: 125, content: ．, id: KR2a0029_ZHSJ_006-bkkpn24}
   - {type: xml-element, offset: 125, content: '', id: KR2a0029_ZHSJ_006-bkkxmlele4}
@@ -2141,4 +2142,4 @@ markers:
   - {type: xml-element, offset: 4584, content: '', id: KR2a0029_ZHSJ_006-d6n1}
   - {type: xml-element, offset: 4584, content: '', id: KR2a0029_ZHSJ_006-d6n1_end}
   back: []
-hash: sha256:9b20ff8383ea799336c8ac118ee934462bc0879f38b631fc1c22a32e05530c7c
+hash: sha256:cbcb4faedf301158438d743d3837e102e7f60f6196e63cb4b83f86e7f1271b89
